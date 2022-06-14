@@ -1,0 +1,280 @@
+.containerr {
+  width: 90%;
+  margin: auto;
+}
+
+.div1 {
+  margin-top: 10rem;
+}
+.conte {
+  font-size: 24px;
+}
+.div2 {
+  gap: 3rem;
+}
+.btn2,
+.btn3,
+.btn5 {
+  height: 72px;
+  width: 217px;
+  border-radius: 14px;
+}
+
+.div3 {
+  width: 30%;
+}
+.h1de {
+  text-align: center;
+  margin-top: 10rem;
+}
+.div4 p {
+  font-size: 21px;
+}
+.onee .card-body {
+  text-align: center;
+}
+hr {
+  width: 80%;
+  margin: 15rem auto;
+}
+.conts {
+    display: flex;
+    align-items: center;
+    grid-gap: 20px !important;
+    width: 100%;
+}
+.img2 {
+  border-radius: 100px;
+  margin-top: 2rem;
+  
+}
+.img2 img{
+    width: 100%;
+}
+.card {
+  border: none;
+}
+.onee {
+  margin-top: 5rem;
+}
+.laziz4 {
+  margin: auto;
+}
+.laziz41{
+    margin: auto;
+}
+.btn4 {
+  border-radius: 14px;
+  padding: 26px;
+}
+.img3 {
+  margin: 7rem auto;
+  align-items: center !important;
+  width: 100%;
+}
+.img10 {
+  width: 100%;
+  height: 70vh;
+}
+li {
+  margin-top: 2rem;
+}
+.h1 {
+  margin-left: 2.5rem;
+}
+.p {
+  margin-left: 2.5rem;
+}
+.lazizz7{
+width: 100%;
+}
+.nmadr {
+  margin-top: 5rem;
+}
+.beforefooter {
+  height: 1300px;
+  padding-top: 12rem;
+}
+.laziz {
+  font-size: 32px;
+  padding-top: 12rem;
+}
+.lazizbek {
+  font-size: 24px;
+}
+.prostaclass {
+  padding-bottom: 1rem;
+}
+.footersinput {
+  background: #ffffff;
+  border: 1px solid #eff0f6;
+  box-sizing: border-box;
+  border-radius: 16px;
+  width: 80%;
+  height: 7vh;
+  box-shadow: 0px 2px 12px rgba(20, 20, 43, 0.08);
+  margin-top: 1rem;
+}
+.btn5 {
+  margin-left: 4px;
+}
+.kotcard img{
+    width: 50%;
+    height: 25vh;
+}
+.btn6 {
+  height: 72px;
+  width: 217px;
+  border-radius: 14px;
+}
+.inputsde {
+  height: 930px;
+}
+.footersinput2 {
+  background: #ffffff;
+  border: 1px solid #eff0f6;
+  box-sizing: border-box;
+  border-radius: 16px;
+  width: 90%;
+  height: 12vh;
+  margin-top: 1rem;
+  box-shadow: 0px 2px 12px rgba(20, 20, 43, 0.08);
+}
+.prostadiv {
+  background: #edf5ff;
+  border-radius: 8px;
+  height: 36px;
+  width: 36px;
+}
+.otaprostadiv {
+  gap: 1rem;
+}
+.bodyhr {
+  width: 80%;
+  margin: 3rem auto;
+}
+.card-body{
+    width: 250px;
+}
+.card-over{
+    width: 250px;
+}
+.footerhr {
+  margin-top: 8rem;
+  margin-bottom: 5rem;
+}
+@media screen and (max-width: 500px) {
+  .img1 {
+    width: 380%;
+  }
+  .div1 {
+    padding-left: 1rem;
+    margin: auto;
+  }
+  .laziz1 {
+    align-items: center;
+    text-align: center;
+  }
+  hr {
+    margin: 5rem auto;
+  }
+  .laziz2 {
+    align-items: center;
+    text-align: center;
+  }
+  .img2 {
+    width: 105%;
+    height: 30vh;
+  }
+  .img-fluid {
+    width: 50%;
+    height: 20vh;
+  }
+  .img3 {
+    margin: 5rem auto;
+    width: 100%;
+  }
+  .laziz3 {
+    margin: auto;
+    text-align: center;
+  }
+  .img10 {
+    width: 100%;
+    height: 30vh;
+  }
+  .laziz4 {
+    margin: 5rem auto;
+    text-align: center;
+  }
+  .laziz5 {
+    align-items: center;
+    text-align: center;
+  }
+  br {
+    display: none;
+  }
+  .laziz6 {
+    margin-left: 5rem;
+  }
+  .img11 {
+    width: 90%;
+  }
+  .laziz7 {
+    display: inline;
+    text-align: center;
+  }
+  .laziz8 {
+    display: flex;
+    gap: 20px;
+  }
+  .laziz10 {
+    width: 100%;
+  }
+  .laziz {
+    font-size: 48px;
+  }
+  .lazizbek {
+    font-size: 21px;
+  }
+  .laziz12 {
+    margin-top: 80rem;
+    text-align: center;
+    align-items: center;
+  }
+  .inputsde {
+    margin-top: 30rem;
+    height: 1200px;
+  }
+  .laziz11 {
+    gap: 50px;
+  }
+  .prostadiv {
+    margin: auto;
+  }
+  .beforefooter {
+    margin: 0;
+    padding-top: 8rem;
+  }
+  .div3 {
+    margin-top: 5rem;
+  }
+  .laziz31 {
+    gap: 40px;
+  }
+  .kotcard {
+    margin-top: 4rem;
+  }
+  .navbarbutton1 {
+    display: flex;
+    justify-content: end;
+    gap: 1rem;
+    margin: auto;
+  }
+  .navbarulli {
+    margin: 0;
+    text-align: start;
+  }
+  .div2 {
+    width: 90%;
+  }
+}
